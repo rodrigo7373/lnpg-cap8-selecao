@@ -20,3 +20,19 @@ Q2
 3. concisão: Erlang é o mais conciso, parece matemática
 4. opinião pessoal: Ruby é melhor neste caso, mais fácil de ler.
 5. comparação com outra linguagem que você conhece: ainda não sei isso em python, mas em C achei pouco intuitivo.
+
+Q3
+
+1. Quantidade de linhas: Python vence.
+2. legibilidade: Python vence também
+3. concisão: Python mais uma vez ganha.
+4. opinião pessoal: neste caso, Python se sai bem para escrever o código rapidamente e com poucos erros.
+5. comparação com outra linguagem que você conhece: Em C seria o mesmo que em Java.
+
+Q4
+
+1. Quantidade de linhas: C vence (até que enfim!)
+2. legibilidade: Ruby se sai muito bem.
+3. concisão: Dart se sai bem, embora seja similar a C.
+4. opinião pessoal: escolheria Ruby neste caso, está melhor até que Python.
+5. comparação com outra linguagem que você conhece:
